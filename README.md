@@ -6,7 +6,7 @@ Steps:
 1. create new workspace directory / new folder in your sysytem <br/>
 2. navigate to the new directory from terminal <br/>
   $cd /../dir-name <br/>
-3. clone the repo into your local system
+3. clone the repo into your local system <br/>
   $git clone https://github.com/puneethsj-sakhatech-github/ApiDemo.git <br/>
 
 4. open project in eclipse or STS <br/>
